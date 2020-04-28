@@ -41,7 +41,7 @@ var yourScore = document.querySelector(".display-3");
 var submitButton = document.getElementById("buttonInitials");
 var inputLine = document.getElementById("inlineFormInput");
 
-var secondsLeft = 30;
+var secondsLeft = 50;
 function setTime() {
     var timerInterval = setInterval(function() {
       secondsLeft--;
@@ -162,4 +162,6 @@ submitButton.addEventListener("click", function(event){
 
 });
 
+
+// Fernando Soto Calis @hoffman1200
 

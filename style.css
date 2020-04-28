@@ -96,6 +96,13 @@ img {
     }
 }
 
+@media (max-width: 1206px){
+    #imagenDisplay {
+        display: none;
+    }
+
+}
+
 @media (max-width: 830px) {
     .display-3 {
         font-size: 350%;
@@ -104,4 +111,12 @@ img {
     .jumbotron {
         height: 100%;
     }
+    #imagen1 {
+        float: right;
+    }
+    #cardMedia {
+        float: right;
+    }
 }
+
+/* Fernando Soto Calis @hoffman1200 */

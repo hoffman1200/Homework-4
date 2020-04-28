@@ -5,7 +5,8 @@ The Totally Awesome Quiz of Useless Information
 
 ## Description
 
-    This is a 5 question quiz, when you click Start Quiz, you will have 50 seconds to answer all the questions.
+    This is a 5 question quiz based on the book "The Totally Awesome Book of Useless Information". 
+    When you click Start Quiz, you will have 50 seconds to answer all the questions.
     For each correct answer you win 5 seconds.
     For each incorrect answer you loose 5 seconds.
     At the end of the quiz enter your initials to the high scores list.
